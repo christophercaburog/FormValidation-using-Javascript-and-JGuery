@@ -6,9 +6,8 @@ This method of form validation is good for <a href = "http://getbootstrap.com/">
 
 
 #this is for the code of javascript and jquery :)
-```
-<pre>
-<code>
+```javascript
+
 <script>
 	
 	$(document).ready(
@@ -50,12 +49,11 @@ This method of form validation is good for <a href = "http://getbootstrap.com/">
 		
 
 </script>
-</code>
-</pre>
+
 ```
 
 #html
-```
+```html
 <pre>
 <form action="#" id="form1" method="post">
 
